@@ -1,4 +1,4 @@
-# EIC Insurance Analytics — A Company's Rise and Collapse
+# EIC Insurance Analytics - A Company's Rise and Collapse
 
 ## About the Project
 
