@@ -15,7 +15,7 @@ This project uses Power BI to dig into EIC's five years of policy and claims dat
 
 ## Key Insights
 
-- Across five years, EIC brought in **$4.0B** in premiums against **$9.2B** paid out in claims — a gap that never closed.
+- Across five years, EIC brought in **$4.0B** in premiums against **$9.2B** paid out in claims - a gap that never closed.
 - The overall premium-to-claims ratio sat at just **44%**, meaning claims routinely ran more than double what was collected in premiums.
 - The company only turned the ratio positive **once** - in Q2 2018 - far too late to change its trajectory.
 - Motorcycles and trucks made up the bulk of policies sold, but weren't necessarily where the money was made.
