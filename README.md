@@ -30,10 +30,10 @@ This project uses Power BI to dig into EIC's five years of policy and claims dat
 - A **profitability heatmap** across usage categories over five years
 - A **premium vs. claim scatter plot** to spot outlier policies at a glance
 
-## Built With
+## Skills Demonstrated
 
-- **Power BI** — report design, layout, and storytelling
-- **DAX** — custom measures for ratios, averages, and KPIs
+- **Power BI** - report design, layout, and storytelling
+- **DAX** - custom measures for ratios, averages, and KPIs
 - Conditional formatting to make loss/profit patterns pop visually
 - Data modeling on raw policy-level records (premiums, claims, vehicle attributes, usage type)
 
@@ -44,6 +44,3 @@ The underlying dataset is policy-level, with fields including insured value, pre
 ## Takeaway
 
 Numbers rarely lie, and EIC's is a case study in what happens when pricing doesn't keep pace with risk. This dashboard turns five years of raw policy data into a clear narrative — showing not just *that* the business struggled, but precisely *where* and *why*. It's a reminder of how much a well-built dashboard can reveal about the mechanics behind a company's decline.
-
----
-*Feel free to explore the report, and reach out if you'd like to discuss the approach or the data behind it.*
